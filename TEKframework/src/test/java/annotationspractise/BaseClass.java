@@ -37,6 +37,7 @@ public class BaseClass {
 	@AfterSuite
 	public void createAsmethod() {
 		System.out.println("disconnect to database");
+		System.out.println("disconnect to database");
 	}
 
 }
