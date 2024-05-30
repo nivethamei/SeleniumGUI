@@ -38,6 +38,7 @@ public class BaseClass {
 	public void createAsmethod() {
 		System.out.println("disconnect to database");
 		System.out.println("disconnect to database");
+		System.out.println("discconect to database");
 	}
 
 }
